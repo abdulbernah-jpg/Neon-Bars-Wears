@@ -1,0 +1,13 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="40" fill="#121212" />
+  <rect x="110" y="100" width="380" height="420" rx="32" fill="#181818" stroke="url(#grad1)" stroke-width="10" />
+  <path d="M190 140 Q260 40 330 140 L330 200 Q330 220 310 220 L290 220 Q270 220 270 200 L270 140 Q270 120 250 120 L190 140" fill="#00E5FF" opacity="0.18" />
+  <text x="300" y="360" text-anchor="middle" font-family="Montserrat, sans-serif" fill="#f6f6f6" font-size="36">Signature Tee</text>
+  <text x="300" y="410" text-anchor="middle" font-family="Montserrat, sans-serif" fill="#c2c2c2" font-size="18">Neon Bars</text>
+</svg>

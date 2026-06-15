@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="40" fill="#121212" />
+  <rect x="110" y="120" width="380" height="380" rx="32" fill="#181818" stroke="url(#grad3)" stroke-width="10" />
+  <path d="M140 220 H460" stroke="#00E5FF" stroke-width="18" stroke-linecap="round" opacity="0.8" />
+  <path d="M140 270 H460" stroke="#8A2BE2" stroke-width="18" stroke-linecap="round" opacity="0.7" />
+  <path d="M140 320 H460" stroke="#00E5FF" stroke-width="18" stroke-linecap="round" opacity="0.6" />
+  <text x="300" y="430" text-anchor="middle" font-family="Montserrat, sans-serif" fill="#f6f6f6" font-size="36">Real Lyrical Tee</text>
+  <text x="300" y="470" text-anchor="middle" font-family="Montserrat, sans-serif" fill="#c2c2c2" font-size="18">Graphic lyric apparel</text>
+</svg>
